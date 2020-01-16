@@ -62,7 +62,7 @@
 
 * 累计降低企业购电成本超过 80 亿元
 
-![](img/bug_cost.jpg)
+![](img/buy_cost.jpg)
 
 #### 五、交易品种
 
